@@ -9,9 +9,6 @@ The dataset for this analysis was obtained from [Oktoberfest Open Data](https://
 ## Data Description
 The dataset provides comprehensive information about Oktoberfest, including statistics on beer consumption, visitor numbers, food consumption, and pricing.
 
-## Data Cleaning
-To ensure data accuracy and reliability, we performed data cleaning processes on the dataset.
-
 ## Data Exploration
 During the initial exploratory data analysis, we uncovered interesting trends and patterns related to Oktoberfest celebrations.
 
