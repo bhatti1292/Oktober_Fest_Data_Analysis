@@ -6,7 +6,7 @@ In this project we are going to use the oktoberfest data to do Analysis for the 
 The dataset was obtained from https://opendata.muenchen.de/en/dataset/oktoberfest.
 2. **Data Description**
 This dataset provides insights into various aspects of Oktoberfest data, including beer consumption, visitor numbers, food consumption, and pricing.
-3. **Data Cleaning:**
+3. **Data Cleaning**
 The dataset underwent cleaning to handle data accuracy.
 4.**Data Exploration**
 Initial exploratory data analysis revealed interesting trends and patterns related to Oktoberfest celebrations.
