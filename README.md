@@ -32,8 +32,6 @@ We will conduct in-depth analysis on the following aspects:
 We will also explore the correlations between:
 - Bier Price and Bier Consumption
 - Chicken Price and Chicken Consumption
-- Bier Price and Chicken Price
-- Bier Consumption and Chicken Consumption
 
 ## Usage
 To replicate this analysis, you can refer to the provided Jupyter Notebook or Python script.
